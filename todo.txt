@@ -1,0 +1,14 @@
+make loopback API:
+    with appropriate models
+
+interact with the loopback api via frontend
+
+front end works with get and post APIs
+
+Due to the fact that I was sick, I do not have anymore time to allocate to this test. 
+As previously mentioned to Andrea, I was told that I can work on this on the weekend. 
+I will be posting my recording on youtube, with a link on GitHub, and a repository on GitHub.
+
+Thank you for your time. I really appreciate you considering/ considered me for the position.
+ 
+    

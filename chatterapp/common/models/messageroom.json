@@ -1,0 +1,21 @@
+{
+  "name": "messageroom",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "publicorprivate": {
+      "type": "boolean",
+      "required": true
+    },
+    "numberofactiveusers": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

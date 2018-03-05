@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~@angular/material/prebuilt-themes/pink-bluegrey.css";
+
+.newcard{
+    margin-bottom: 10px;
+}
+
+.singlemsg{
+    margin-bottom: 2px;
+}

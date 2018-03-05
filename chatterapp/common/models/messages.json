@@ -1,0 +1,23 @@
+{
+  "name": "messages",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "content": {
+      "type": "string"
+    },
+    "owner": {
+      "type": "string"
+    },
+    "posted_on": {
+      "type": "date"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
